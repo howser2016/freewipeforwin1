@@ -8,6 +8,7 @@ It will try to wipe all storage plugged in the computer at the time of the wipe.
 It has three wipe options which are presented after you have installed and have restarted the computer.
 
 WARNING: Used entirely at your own risk. NO WARRANTIES IMPLIED OR GIVEN. 
+
 WARNING: Has NOT been tested beyond Windows 7, and will NOT work on UEFI boot configurations. 
 
 How to Build:
