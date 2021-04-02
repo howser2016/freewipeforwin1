@@ -24,7 +24,7 @@ You can then use it to open the file `installer` and simply hit build.
 
 How to customize:
 -----------------
-The project uses a light weight Linux distribution. It's is in a compressed file in Downloads area of the wiki `lupu_528.sfs`.
+The project uses a light weight Linux distribution. It's is in a compressed file, the link is in the Downloads area of the wiki `lupu_528.sfs`.
 First thing you need to do is extract it. On linux you can install `squashfs-tools-ng` and issue the following commands:
 
 ```
