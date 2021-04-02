@@ -2,7 +2,11 @@ Free Wipe for Windows
 =====================
 Information:
 -------------
+WIKI
 https://github.com/howser2016/freewipeforwin1/wiki
+COMPILED VERSION
+https://drive.google.com/file/d/1-hWH_wX4BQrqBUMapjeFvc5HKhO1bADj/view?usp=sharing
+
 The easiest way to wipe a Windows computer, no need for technical skills, USB or CD or DVD. Just install the software and restart the computer. 
 It will try to wipe all storage plugged in the computer at the time of the wipe.  
 It has three wipe options which are presented after you have installed and have restarted the computer.
