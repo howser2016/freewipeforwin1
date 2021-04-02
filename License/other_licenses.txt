@@ -1,0 +1,4 @@
+Puppy Linux: http://wikka.puppylinux.com/License
+grub4dos: GPLv3
+innosetup: https://jrsoftware.org/files/is/license.txt
+
