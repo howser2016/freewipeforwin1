@@ -4,6 +4,7 @@ Information:
 -------------
 WIKI
 https://github.com/howser2016/freewipeforwin1/wiki
+
 COMPILED VERSION
 https://drive.google.com/file/d/1-hWH_wX4BQrqBUMapjeFvc5HKhO1bADj/view?usp=sharing
 
