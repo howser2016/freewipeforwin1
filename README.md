@@ -5,7 +5,7 @@ Information:
 WIKI
 https://github.com/howser2016/freewipeforwin1/wiki
 
-COMPILED VERSION
+COMPILED VERSION (SETUP.EXE)
 https://drive.google.com/file/d/1-hWH_wX4BQrqBUMapjeFvc5HKhO1bADj/view?usp=sharing
 
 The easiest way to wipe a Windows computer, no need for technical skills, USB or CD or DVD. Just install the software and restart the computer. 
