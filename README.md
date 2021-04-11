@@ -16,7 +16,7 @@ WARNING: Used entirely at your own risk. NO WARRANTIES IMPLIED OR GIVEN.
 
 WARNING: Has NOT been tested beyond Windows 7, and will NOT work on UEFI boot configurations. 
 
-How to Build:
+How to Build the Package Yourself:
 -------------
 First you need to install InnoSetup. It's included in this repo.
 You can then use it to open the file `installer` and simply hit build.
