@@ -8,6 +8,8 @@ https://github.com/howser2016/freewipeforwin1/wiki
 COMPILED VERSION (SETUP.EXE)
 https://drive.google.com/file/d/1-hWH_wX4BQrqBUMapjeFvc5HKhO1bADj/view?usp=sharing
 
+Hundreds of millions of computers still run out dated Windows operating systems. This free utility will wipe a Windows computer without the user having any technical knowledge. Just Download the .exe, install by double clicking it on the target machine, then restart computer and answer the prompts.
+
 The easiest way to wipe a Windows computer, no need for technical skills, USB or CD or DVD. Just install the software and restart the computer. 
 It will try to wipe all storage plugged in the computer at the time of the wipe.  
 It has three wipe options which are presented after you have installed and have restarted the computer.
