@@ -20,6 +20,7 @@ How to Build the Package Yourself:
 -------------
 First you need to install InnoSetup. It's included in this repo.
 You can then use it to open the file `installer` and simply hit build.
+You will need the large binaries/files, mentioned below, which are are linked in the Wiki.
 
 
 How to customize:
